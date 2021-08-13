@@ -1,4 +1,4 @@
-# Aecl-Coin
+# Web-Coin
 Super basic cryptocurrency I build to learn more about the subject - runs in the browser.
 
 [**Check out the demo**]()
